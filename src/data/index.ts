@@ -1,3 +1,10 @@
+// Importa los videos directamente
+import video1 from "@/assets/webp/1.webm";
+import video3 from "@/assets/webp/3.webm";
+import video4 from "@/assets/webp/4.webm";
+import video5 from "@/assets/webp/5.webm";
+import video6 from "@/assets/webp/6.webm";
+
 export const data = [
   {
     id: 1,
@@ -8,9 +15,9 @@ export const data = [
       "Compartimento de inversores con la última tecnología",
       "Unidad de batería en lugar de resistencias de freno, recuperación completa",
     ],
-    src: "public/assets/webp/1.webm",
+    src: video1,
   },
-  {
+  { 
     id: 2,
     name: "Plataforma de la maquinaria, fácil acceso",
     description: [
@@ -18,7 +25,7 @@ export const data = [
       "Disponible en varios niveles de emisiones, incluida la última fase V",
       "Atornillado sobre la plataforma de la máquina: fácil reparación y reconstrucción"
     ],
-    src: "public/assets/webp/3.webm",
+    src: video3,
   },
   {
     id: 3,
@@ -28,7 +35,7 @@ export const data = [
       "Bajo mantenimiento",
       "Componentes de alta calidad",
     ],
-    src: "public/assets/webp/4.webm",
+    src: video4,
   },
   {
     id: 4,
@@ -40,9 +47,8 @@ export const data = [
       "Guías de cable simples, protegidas y dispuestas de forma clara",
       "Pequeña cantidad de poleas para reducir el desgaste de los cables",
       "Detectores de carga en los extremos de los cables"
-
     ],
-    src: "public/assets/webp/5.webm",
+    src: video5,
   },
   {
     id: 5,
@@ -52,6 +58,6 @@ export const data = [
       "Diseño para terrenos difíciles",
       "Larga vida útil",
     ],
-    src: "public/assets/webp/6.webm",
+    src: video6,
   },
 ];

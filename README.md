@@ -14,7 +14,7 @@ Componente React para visualización interactiva de animaciones mecánicas con t
 
 1. Clonar repositorio
 ```bash
-git clone [tu-repositorio]
+git clone https://github.com/josebladex/3d_render_component
 ```
 
 2. Instalar dependencias

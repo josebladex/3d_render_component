@@ -1,7 +1,7 @@
 import { useState, useRef, useCallback } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import CardItem from "./CardItem";
-import { data } from "@/data";
+import { data } from "@/data"; 
 import type { VideoItem } from "@/types";
 
 export default function ThreeDSection() {
