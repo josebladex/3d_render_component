@@ -8,7 +8,7 @@ export const data = [
       "Compartimento de inversores con la última tecnología",
       "Unidad de batería en lugar de resistencias de freno, recuperación completa",
     ],
-    src: "/assets/webp/1.webm",
+    src: "public/assets/webp/1.webm",
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ export const data = [
       "Disponible en varios niveles de emisiones, incluida la última fase V",
       "Atornillado sobre la plataforma de la máquina: fácil reparación y reconstrucción"
     ],
-    src: "/assets/webp/3.webm",
+    src: "public/assets/webp/3.webm",
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ export const data = [
       "Bajo mantenimiento",
       "Componentes de alta calidad",
     ],
-    src: "/assets/webp/4.webm",
+    src: "public/assets/webp/4.webm",
   },
   {
     id: 4,
@@ -42,7 +42,7 @@ export const data = [
       "Detectores de carga en los extremos de los cables"
 
     ],
-    src: "/assets/webp/5.webm",
+    src: "public/assets/webp/5.webm",
   },
   {
     id: 5,
@@ -52,6 +52,6 @@ export const data = [
       "Diseño para terrenos difíciles",
       "Larga vida útil",
     ],
-    src: "/assets/webp/6.webm",
+    src: "public/assets/webp/6.webm",
   },
 ];
