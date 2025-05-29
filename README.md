@@ -1,6 +1,6 @@
 # 3D Interactive Mechanical Components Viewer
 
-Componente React para visualización interactiva de animaciones mecánicas con transiciones fluidas entre videos.
+Componente React para visualización interactiva de animaciones mecánicas con transiciones fluidas entre videos que renderizan componentes tridimensionales.
 
 ## Características Principales
 
@@ -20,15 +20,13 @@ git clone https://github.com/josebladex/3d_render_component
 2. Instalar dependencias
 ```bash
 npm install
-# o
-yarn install
+
 ```
 
 3. Iniciar aplicación
 ```bash
 npm run dev
-# o
-yarn dev
+
 ```
 ## Dependencias Principales
 
